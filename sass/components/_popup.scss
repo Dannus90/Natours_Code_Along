@@ -8,6 +8,7 @@
     background-color: rgba($color-black, 0.8);
     opacity: 0;
     visibility: hidden;
+    display: none;
     transition: opacity 0.3s;
 
     @supports (-webkit-backdrop-filter: brightness(10px)) or
